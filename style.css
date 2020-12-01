@@ -1,0 +1,45 @@
+header h1{
+    background-color: rgba(39, 39, 219, 0.822);
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+.subheading {
+    text-align: center;
+    padding: 0 19rem 0;
+    display: flex;
+    margin-top: auto;
+    
+
+}
+
+.mainText {
+    text-align: justify;
+    padding: 0 15em;
+}
+
+#sidebar {
+    position: fixed ;
+    right: 3%;
+    top: 23%;
+    width: 17%;
+
+}
+
+.card{
+    background-color: rgba(39, 39, 219, 0.822);
+    height: 120px;
+    width: -webkit-fill-available;
+    position: fixed;
+    right: 0;
+}
+
+#bar{
+    background-color:rgba(65, 141, 240, 0.911);
+    height: 16px;
+    width: 339px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
